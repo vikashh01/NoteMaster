@@ -1,7 +1,7 @@
 # NoteMaster Web Application
 
 ## 1. Introduction
-The NoteMaster web application is designed to allow users to create, edit, delete, and manage notes efficiently. This test plan outlines the testing strategy to ensure the application's functionality, usability, performance, and security.
+NoteMaster is a simple and efficient web application designed to help users create, edit, delete, and manage notes effortlessly. It provides a user-friendly interface to store and organize important information securely and access it anytime from any device.
 
 ## 2. Objectives
 - Verify that users can create, edit, delete, and search for notes.
