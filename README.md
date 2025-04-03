@@ -58,7 +58,6 @@ NoteMaster is a simple and efficient web application designed to help users crea
 | Test Planning         | 02/04/2025  | 02/04/2025 |
 | Test Case Design      | 02/04/2025  | 02/04/2025 |
 | Test Execution        | 02/04/2025  | 02/04/2025 |
-| Bug Fixing & Retesting| 02/04/2025  | 02/04/2025 |
 | Final Testing & Sign-off | 02/04/2025 | 02/04/2025 |
 
 ## 8. Test Deliverables
