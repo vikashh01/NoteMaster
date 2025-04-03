@@ -42,8 +42,8 @@ The NoteMaster web application is designed to allow users to create, edit, delet
 - Run automation scripts on different browsers using **TestNG parallel execution**.
 
 ### Compatibility Testing:
-- Testing on different browsers (Chrome, Firefox, Edge, Safari)
-- Mobile responsiveness testing on Android and iOS devices.
+- Testing on different browsers (Chrome, Firefox, Edge, Safari).
+- Devices - Windows11
 
 ## 6. Roles and Responsibilities
 - **Test Manager**: Oversees the entire testing process and ensures timely execution.
