@@ -84,7 +84,10 @@ NoteMaster is a simple and efficient web application designed to help users crea
 - **Automation Tools (if applicable)**: Cypress, Selenium
 - **Browser Testing**: Chrome DevTools, BrowserStack
 
-## 11. Risks and Mitigation Plans
+## 11. Bug ScreenShorts
+https://drive.google.com/drive/folders/159gVvk3Rx9TjDS3njpiHc8_qphJjxzKI?usp=sharing
+
+## 12. Risks and Mitigation Plans
 
 | Risk | Mitigation Plan |
 |------|----------------|
